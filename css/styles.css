@@ -109,4 +109,13 @@ img {
   border-bottom: 5px solid #750EB5;
 }
 
+.header-link{
+  color: #BC32FC;
+}
+
+.header-link:hover, .header-link:focus, .header-link:active{
+  color: #C954FF;
+  text-decoration: none;
+}
+
 /*# sourceMappingURL=styles.css.map */

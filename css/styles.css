@@ -41,7 +41,11 @@ img {
   font-size: 35px; }
 
 .small{
-  font-size: 30px;
+  font-size: 25px !important;
+}
+
+.xsmall{
+  font-size: 16px;
 }
 
 .headerdiv {
@@ -95,6 +99,14 @@ img {
 .center-margin{
   margin-right: auto;
   margin-left: auto;
+}
+
+.headerxl{
+  font-size: 45px;
+}
+
+.header-large{
+  border-bottom: 5px solid #750EB5;
 }
 
 /*# sourceMappingURL=styles.css.map */
